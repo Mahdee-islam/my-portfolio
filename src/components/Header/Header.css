@@ -1,0 +1,22 @@
+.header {
+  text-align: center;
+  font-family: Montserrat;
+  padding: 30px 20px;
+}
+nav {
+  margin-top: 20px;
+  line-height: 3.5 rem;
+  text-align: right;
+  margin-right: 40px;
+}
+nav a {
+  text-decoration: none;
+
+  font-weight: 600;
+  padding: 13px;
+  color: rgb(92, 87, 87);
+  font-size: 13px;
+}
+nav a:hover {
+  color: #4d4dff;
+}

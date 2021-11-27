@@ -1,0 +1,15 @@
+.home {
+  display: flex;
+}
+.content-section {
+  font-family: Montserrat;
+  text-align: left;
+  margin-left: 3rem;
+   margin-top: 10rem;
+}
+.content-section h1 {
+  font-size: 32px;
+}
+.name {
+  color: #4d4dff;
+}
