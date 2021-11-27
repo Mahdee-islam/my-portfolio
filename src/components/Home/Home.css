@@ -1,15 +1,27 @@
 .home {
   display: flex;
+  color: rgb(92, 87, 87);
 }
 .content-section {
   font-family: Montserrat;
   text-align: left;
   margin-left: 3rem;
-   margin-top: 10rem;
+  margin-top: 10rem;
+}
+.img-section {
+  margin-top: 6rem;
 }
 .content-section h1 {
   font-size: 32px;
 }
 .name {
   color: #4d4dff;
+}
+.img-section img {
+  height: 65%;
+}
+.find-section {
+  text-align: left;
+  margin-left: 3rem;
+  color: rgb(92, 87, 87);
 }
