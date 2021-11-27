@@ -38,9 +38,22 @@ const Home = () => {
                 <img  src= { image } alt="img" /> 
             </div>
              </div>
-             <p>Find Section</p>
+             <p style = {{
+                 textAlign: 'left',
+                 marginLeft: "3rem",
+  color: "rgb(92, 87, 87)"
+             }}>Find Section</p>
              <div className="find-section">
-              
+              <div className = "facebook">
+                 
+                  <p>facebook</p>
+              </div>
+              <div className = "facebook">
+              <p>linkedIn</p>
+              </div>
+              <div className = "facebook">
+              <p>twitter</p>
+              </div>
              </div>
         </div>
     );
